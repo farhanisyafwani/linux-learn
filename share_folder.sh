@@ -1,2 +1,2 @@
 mkdir ~/share
-sudo mount ~t vboxsf foldername ~/share/
+sudo mount -t vboxsf foldername ~/share/
